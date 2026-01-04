@@ -1,6 +1,6 @@
 # Hi, I’m Linus Kundur-Zourntos
 
-I’m a systems-focused engineering student with a strong interest in **systems security**, **binary exploitation**, and **low-level software design**.  
+I’m a Computer Engineering student at the University of Toronto with a strong interest in **systems security**, **binary exploitation**, and **low-level software design**.  
 My work centers on understanding how software fails at the lowest levels and how to design systems that are harder to break.
 
 Most of what I build and analyze is in **C, C++, and assembly**, with an emphasis on:
