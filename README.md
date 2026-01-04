@@ -20,14 +20,14 @@ Most of what I build and analyze is in **C, C++, and assembly**, with an emphasi
 <!-- Top -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 <!-- Middle -->
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 <!-- Bottom -->
 <img src="https://img.shields.io/badge/Assembly-000000?style=flat&logo=gnu&logoColor=white"/>
