@@ -18,21 +18,21 @@ Most of what I build and analyze is in **C, C++, and assembly**, with an emphasi
 <div align="center">
 
 <!-- Top -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 <br/>
 
 <!-- Middle -->
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+&nbsp;&nbsp;&nbsp;
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 
 <br/>
 
 <!-- Bottom -->
-<img src="https://img.shields.io/badge/Assembly-000000?style=flat&logo=gnu&logoColor=white"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Verilog-CC0000?style=flat&logo=xilinx&logoColor=white"/>
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+&nbsp;&nbsp;&nbsp;
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg"/>
 
 </div>
 
