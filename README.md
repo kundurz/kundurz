@@ -15,12 +15,26 @@ Most of what I build and analyze is in **C, C++, and assembly**, with an emphasi
 
 ## 🛠️ Technologies
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat&logo=gnu&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-CC0000?style=flat&logo=xilinx&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<div align="center">
 
+<!-- Top -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Middle -->
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Bottom -->
+<img src="https://img.shields.io/badge/Assembly-000000?style=flat&logo=gnu&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Verilog-CC0000?style=flat&logo=xilinx&logoColor=white"/>
+
+</div>
 
 ---
 
