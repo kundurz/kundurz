@@ -13,6 +13,17 @@ Most of what I build and analyze is in **C, C++, and assembly**, with an emphasi
 
 ---
 
+## 🛠️ Technologies
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat&logo=gnu&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-CC0000?style=flat&logo=xilinx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+---
+
 ## 🔧 Current Focus
 - Binary exploitation fundamentals, with an emphasis on heap and stack misuse
 - Designing and analyzing memory allocators for security and robustness
