@@ -14,7 +14,7 @@ Most of what I build and analyze is in **C, C++, and assembly**, with an emphasi
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Programming Languages
 
 <div align="center">
 
