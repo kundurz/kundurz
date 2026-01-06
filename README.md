@@ -10,7 +10,7 @@ Most of what I build and analyze is in **C, C++, and assembly**, with an emphasi
 - OS and hardware–software security mechanisms
 - exploit mitigation design (canaries, quarantines, W^X, resource limits.
 - practical exploit techniques and mitigations
-- CPU microarchitecture (5-stage pipelined processor design, hazards, control/data paths)
+- CPU microarchitecture 
 
 ---
 
