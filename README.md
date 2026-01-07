@@ -54,7 +54,7 @@ Most of what I build and analyze is in **C, C++, and assembly**, with an emphasi
 
 - **shsh** — A command-line shell implemented in C supporting built-in and external commands, input/output redirection, and Unix process execution via fork/exec.
 
-- **Custom Heap Allocator** — A basic dynamic memory allocator implementing `malloc` and `free`, with explicit free lists and coalescing to manage heap memory.
+- **blockfit** — Built a minimal heap allocator in C using fixed-size blocks, explicit metadata, and first-fit contiguous allocation.
 
 - **Pong (Computer Opponent)** — A Pong game where the player competes against an computer-controlled paddle that tracks and intercepts the ball, demonstrating real-time game logic and control flow.
 
