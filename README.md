@@ -8,7 +8,7 @@ Most of what I build and analyze is in **C, C++, and assembly**, with an emphasi
 - memory safety and allocator internals
 - binary exploitation primitives (stack/heap overflows, UAF, control-data corruption)
 - OS and hardware–software security mechanisms
-- exploit mitigation design (canaries, quarantines, W^X, resource limits.
+- exploit mitigation design (canaries, quarantines, W^X, resource limits).
 - practical exploit techniques and mitigations
 - CPU microarchitecture 
 
