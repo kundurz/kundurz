@@ -11,7 +11,7 @@ Focused on understanding how software fails at the lowest levels.
 - CPU microarchitecture
 
 ### 🛠️ Stack
-C/C++, Assembly, Python, Verilog
+`C/C++`, `asm`, `python`, `verilog`
 
 ### 📁 Projects
 AURION-5 — 5-stage pipelined CPU (hazards, datapath, control)<br>
