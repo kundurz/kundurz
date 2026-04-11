@@ -14,7 +14,7 @@ Focused on understanding how software fails at the lowest levels.
 C/C++, Assembly, Python, Verilog
 
 ### 📁 Projects
-AURION-5 — 5-stage pipelined CPU (hazards, datapath, control)
-shsh — Unix shell in C (fork/exec, redirection)
-blockfit — Minimal heap allocator (first-fit, explicit metadata)
+AURION-5 — 5-stage pipelined CPU (hazards, datapath, control)<br>
+shsh — Unix shell in C (fork/exec, redirection)<br>
+blockfit — Minimal heap allocator (first-fit, explicit metadata)<br>
 Pong AI — Real-time control logic opponent
