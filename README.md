@@ -10,7 +10,7 @@ Focused on understanding how software fails at the lowest levels.
 - Systems security
 - CPU microarchitecture
 
-### 🛠️ Stack
+### 🛠️ Primary Stack
 `C/C++` `asm` `python` `verilog`
 
 ### 📁 Projects
