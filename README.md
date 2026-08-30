@@ -2,19 +2,19 @@
 
 Computer Engineering @ University of Toronto, I break software and build secure systems.
 
-Focused on understanding how software fails at the lowest levels.
+Focused on understanding how software fails at the lowest levels and how systems can be designed
+to make those failures more difficult to exploit.
+
+My latest passion project is [Bedrock](https://github.com/kundurz/bedrock), a security-focused dynamic memory allocator implemented in C. 
 
 ### Core areas:
-- Binary exploitation
+- Binary exploitation 
 - Low-level systems
 - Systems security
-- CPU microarchitecture
+- Computer architecture
 
 ### 🛠️ Primary Stack
 `C/C++` `asm` `python` `verilog`
 
-### 📁 Projects
-AURION-5 — 5-stage pipelined CPU (hazards, datapath, control)<br>
-shsh — Unix shell in C (fork/exec, redirection)<br>
-blockfit — Minimal heap allocator (first-fit, explicit metadata)<br>
-Pong AI — Real-time control logic opponent
+## Contact 
+You can reach me at: linus.kundurzourntos@mail.utoronto.ca
